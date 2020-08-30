@@ -16,7 +16,7 @@ Date:2020.06.25.
 '''
 Salmon running on fastq files
 This script was used to run salmon on multiple fastq files.
-Date:2020.joel
+Date:2020.01.20.
 '''
 
 # first, preparing transcriptome indices
