@@ -43,6 +43,10 @@ Four of the R-scripts contain a variation of the same workflow, and has more or 
 
 Only DEGs produced using the first four scripts were included in the final report, whereas the result from the multi-factor design-script was only used to produce a heatmap.
 
+## Roadmap
+
+Need to solve issue with broken README.md links.
+
 ## Author(s)
 
 - Dorottya Ralbovszki
