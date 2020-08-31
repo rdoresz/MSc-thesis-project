@@ -6,8 +6,8 @@ The files within this repository are scripts that were produced during a MSc pro
 
 Scripts and sub-scripts were executed in the following order:
 
-1. Salmon running on fastq files > [all_bash_scripts.sh](./all_bash_scripts.sh)
-2. Gzipping quantification files for better storage > [all_bash_scripts.sh](./all_bash_scripts.sh)
+1. Salmon running on fastq files > [all_bash_scripts.sh](https://github.com/rdoresz/MSc-thesis-project/blob/master/all_bash_scrips.sh)
+2. Gzipping quantification files for better storage > [all_bash_scripts.sh](https://github.com/rdoresz/MSc-thesis-project/blob/master/all_bash_scrips.sh)
 3. Checking mapping rates > [all_pythonscripts_thesis.py](./all_pythonscripts_thesis.py)
 4. Creating metadata > [all_pythonscripts_thesis.py](./all_pythonscripts_thesis.py)
 5. R-scripts
@@ -21,7 +21,7 @@ Further information and some instruction can be found within the script comments
 
 All available scripts, including the R-scripts, are non-executable. Meaning, individual commands should be run in succession.
 
-### [all_bash_scripts.sh](./all_bash_scripts.sh)
+### [all_bash_scripts.sh](https://github.com/rdoresz/MSc-thesis-project/blob/master/all_bash_scrips.sh)
 
 Contains two different bash tasks:
 
