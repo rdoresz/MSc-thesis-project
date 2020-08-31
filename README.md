@@ -10,14 +10,14 @@ The files within this repository are scripts that were produced during a MSc pro
 
 All available scripts, including the R-scripts, are non-executable. Meaning, individual commands should be run in succession.
 
-### (all_bash_scripts.sh)[./all_bash_scripts.sh]
+### [all_bash_scripts.sh](./all_bash_scripts.sh)
 
 Contains two different bash tasks:
 
 - Salmon running on fastq files
 - Gzipping quantification files for better storage
 
-### (all_pythonscripts_thesis.py)[./all_pythonscripts_thesis.py]
+### [all_pythonscripts_thesis.py](./all_pythonscripts_thesis.py)
 
 Contains four separate python scripts that, if ran on their own, can be executed to perform their individual tasks. All except the 'Creating metadata', takes one or more command-line argument(s) to determine input file.
 
